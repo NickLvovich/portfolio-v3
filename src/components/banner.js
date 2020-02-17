@@ -14,7 +14,7 @@ const Banner = () => {
             </div>
             <div className="line">
               <span>
-                и есть результат
+                и есть результат.
               </span>
             </div>
           </h2>
