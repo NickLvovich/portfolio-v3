@@ -9,12 +9,12 @@ const Banner = () => {
           <h2>
             <div className="line">
               <span>
-                Development
+                Create  & Develop
               </span>
             </div>
             <div className="line">
               <span>
-                my second name.
+                together with you 
               </span>
             </div>
           </h2>
